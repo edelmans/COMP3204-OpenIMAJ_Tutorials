@@ -11,7 +11,7 @@ import org.openimaj.image.typography.hershey.HersheyFont;
  * OpenIMAJ Hello world!
  *
  */
-public class App {
+public class Ch1 {
     public static void main( String[] args ) {
     	//Create an image
         MBFImage image = new MBFImage(320,70, ColourSpace.RGB);
@@ -20,10 +20,11 @@ public class App {
         image.fill(RGBColour.WHITE);
         		        
         //Render some test into the image
-        image.drawText("Hello World", 10, 60, HersheyFont.CURSIVE, 50, RGBColour.BLACK);
+        // -- EXERCISE 1.2.1. Changing text and playing with the sample application
+        image.drawText("The very first", 10, 60, HersheyFont.FUTURA_MEDIUM, 40, RGBColour.RED);
 
         //Apply a Gaussian blur
-        image.processInplace(new FGaussianConvolve(2f));
+        image.processInplace(new FGaussianConvolve(1f));
         
         //Display the image
         DisplayUtilities.display(image);
