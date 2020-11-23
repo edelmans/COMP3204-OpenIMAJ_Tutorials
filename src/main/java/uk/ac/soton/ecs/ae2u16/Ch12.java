@@ -145,6 +145,18 @@ public class Ch12 {
         long timeElapsed = (System.currentTimeMillis() - start) / 1000;
         System.out.println("Result: " + result + " | Time elapsed: " + timeElapsed);
 
+        /** 
+         * -- EXERCISE 12.1.3. Results
+         * The adjusted code had the following performance
+         * Accuracy: 0.295
+         * Error Rate: 0.705 
+         * Time Elapsed: 3 hours 11 minutes
+         *
+         * It seems that it performed the worst, which could mean two things:
+         * 1. There was an error in my implementation
+         * 2. The code does not perform well on large datasets
+         *
+         */
 
 
 
