@@ -112,7 +112,7 @@ public class Ch13 {
                          * longest observed distance.
                          */
                         if(distance > 15){
-                            System.out.print("| Unkown face |");
+                            System.out.print("| Unknown face |");
                             continue;
                         }
 
