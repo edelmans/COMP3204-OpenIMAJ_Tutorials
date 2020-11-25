@@ -150,7 +150,7 @@
           </descriptorRefs>
           <archive>
             <manifest>
-              <mainClass>uk.ac.soton.ecs.ae2u16.Ch1</mainClass>
+              <mainClass>uk.ac.soton.ecs.ae2u16.ch1.Ch1</mainClass>
             </manifest>
           </archive>
         </configuration>

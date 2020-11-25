@@ -1,4 +1,4 @@
-package uk.ac.soton.ecs.ae2u16;
+package uk.ac.soton.ecs.ae2u16.ch14;
 
 import org.openimaj.data.dataset.GroupedDataset;
 import org.openimaj.data.dataset.ListDataset;

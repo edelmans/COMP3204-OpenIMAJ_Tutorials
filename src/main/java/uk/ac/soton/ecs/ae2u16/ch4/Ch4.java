@@ -1,4 +1,4 @@
-package uk.ac.soton.ecs.ae2u16;
+package uk.ac.soton.ecs.ae2u16.ch4;
 
 import org.openimaj.feature.DoubleFVComparison;
 import org.openimaj.image.DisplayUtilities;

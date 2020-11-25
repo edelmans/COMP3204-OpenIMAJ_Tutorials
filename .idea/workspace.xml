@@ -11,10 +11,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1kdlnG50clrywXM47jHeUsvpbpE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/uk/ac/soton/ecs/ae2u16" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -37,25 +45,12 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Ch14">
-    <configuration name="Ch12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="uk.ac.soton.ecs.ae2u16.Ch12" />
-      <module name="Coursework1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="uk.ac.soton.ecs.ae2u16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Ch13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="uk.ac.soton.ecs.ae2u16.Ch13" />
+      <option name="MAIN_CLASS_NAME" value="uk.ac.soton.ecs.ae2u16.ch13.Ch13" />
       <module name="Coursework1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="uk.ac.soton.ecs.ae2u16.*" />
+          <option name="PATTERN" value="uk.ac.soton.ecs.ae2u16.ch13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,11 +59,24 @@
       </method>
     </configuration>
     <configuration name="Ch14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="uk.ac.soton.ecs.ae2u16.Ch14" />
+      <option name="MAIN_CLASS_NAME" value="uk.ac.soton.ecs.ae2u16.ch14.Ch14" />
       <module name="Coursework1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="uk.ac.soton.ecs.ae2u16.*" />
+          <option name="PATTERN" value="uk.ac.soton.ecs.ae2u16.ch14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uk.ac.soton.ecs.ae2u16.ch5.Ch5" />
+      <module name="Coursework1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.soton.ecs.ae2u16.ch5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,11 +85,11 @@
       </method>
     </configuration>
     <configuration name="Ch6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="uk.ac.soton.ecs.ae2u16.Ch6" />
+      <option name="MAIN_CLASS_NAME" value="uk.ac.soton.ecs.ae2u16.ch6.Ch6" />
       <module name="Coursework1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="uk.ac.soton.ecs.ae2u16.*" />
+          <option name="PATTERN" value="uk.ac.soton.ecs.ae2u16.ch6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,11 +98,11 @@
       </method>
     </configuration>
     <configuration name="Ch7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="uk.ac.soton.ecs.ae2u16.Ch7" />
+      <option name="MAIN_CLASS_NAME" value="uk.ac.soton.ecs.ae2u16.ch7.Ch7" />
       <module name="Coursework1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="uk.ac.soton.ecs.ae2u16.*" />
+          <option name="PATTERN" value="uk.ac.soton.ecs.ae2u16.ch7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,9 +114,9 @@
       <list>
         <item itemvalue="Application.Ch14" />
         <item itemvalue="Application.Ch13" />
-        <item itemvalue="Application.Ch12" />
         <item itemvalue="Application.Ch7" />
         <item itemvalue="Application.Ch6" />
+        <item itemvalue="Application.Ch5" />
       </list>
     </recent_temporary>
   </component>

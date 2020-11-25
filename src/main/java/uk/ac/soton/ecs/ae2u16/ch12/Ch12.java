@@ -1,4 +1,4 @@
-package uk.ac.soton.ecs.ae2u16;
+package uk.ac.soton.ecs.ae2u16.ch12;
 
 import de.bwaldvogel.liblinear.SolverType;
 import org.openimaj.data.DataSource;

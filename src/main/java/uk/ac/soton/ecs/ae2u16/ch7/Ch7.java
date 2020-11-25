@@ -1,4 +1,4 @@
-package uk.ac.soton.ecs.ae2u16;
+package uk.ac.soton.ecs.ae2u16.ch7;
 
 import org.openimaj.image.DisplayUtilities;
 import org.openimaj.image.MBFImage;

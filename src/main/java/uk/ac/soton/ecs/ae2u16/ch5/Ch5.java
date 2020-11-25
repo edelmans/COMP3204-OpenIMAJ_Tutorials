@@ -1,4 +1,4 @@
-package uk.ac.soton.ecs.ae2u16;
+package uk.ac.soton.ecs.ae2u16.ch5;
 
 import com.sun.xml.bind.v2.TODO;
 import org.openimaj.feature.local.list.LocalFeatureList;

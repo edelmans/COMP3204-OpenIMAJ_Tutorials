@@ -1,4 +1,4 @@
-package uk.ac.soton.ecs.ae2u16;
+package uk.ac.soton.ecs.ae2u16.ch6;
 
 import org.apache.commons.vfs2.FileSystemException;
 import org.openimaj.data.dataset.MapBackedDataset;
